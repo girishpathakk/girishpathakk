@@ -56,28 +56,55 @@ print(me.goal())
 
 💻 GitHub: https://github.com/girishpathakk
 
-
-
 ---
+
+<!-- ============================================================ -->
+<!--                  CURRENTLY BUILDING / LEARNING               -->
+<!-- ============================================================ -->
+
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+- 🤖 Machine Learning projects using Python
+- 📊 Data Analytics dashboards with Power BI
+- 🗄️ SQL & PostgreSQL based data analysis solutions
+- 📈 End-to-end business insight projects from real-world datasets
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning & Exploring
+- 🧠 Machine Learning (Supervised & Unsupervised Learning)
+- 🤖 Artificial Intelligence & AI/ML Fundamentals
+- 💬 Natural Language Processing (NLP) through NPTEL
+- 📚 Data Science, Statistics & Model Evaluation Techniques
+
+</td>
+</tr>
+</table>
+
 
 
 ## 🛠️ Tech Stack
 
 ### 📚 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🗄️ Databases & Data Management
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### 📊 Data Visualization & Business Intelligence
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 ### 🤖 Machine Learning & Deep Learning
@@ -99,12 +126,11 @@ print(me.goal())
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🔧 MLOps & Tools
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 
@@ -127,12 +153,10 @@ print(me.goal())
 ---
 <!-- Snake Game Repo View -->
 
+
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-
-
-
 
 
 ### ✍️ Random Dev Quote
