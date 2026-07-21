@@ -69,18 +69,19 @@ print(me.goal())
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- 🤖 Machine Learning projects using Python
+- 🤖 End-to-end ML pipelines — Regression, Classification with model evaluation (Confusion Matrix, ROC-AUC)
 - 📊 Data Analytics dashboards with Power BI
-- 🗄️ SQL & PostgreSQL based data analysis solutions
 - 📈 End-to-end business insight projects from real-world datasets
+- 🧠 Deep Learning models using TensorFlow/Keras (ANN, CNN basics)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Learning & Exploring
-- 🧠 Machine Learning (Supervised & Unsupervised Learning)
-- 🤖 Artificial Intelligence & AI/ML Fundamentals
+- 🤖 Large Language Models (LLMs) — Intro course + Prompt Engineering
+- 🧠 Deep Learning — ANNs, CNNs, RNNs (TensorFlow/Keras)
 - 💬 Natural Language Processing (NLP) through NPTEL
+- Cloud Computing for ML — Azure/GCP
 - 📚 Data Science, Statistics & Model Evaluation Techniques
 
 </td>
@@ -96,8 +97,8 @@ print(me.goal())
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🗄️ Databases & Data Management
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 📊 Data Visualization & Business Intelligence
@@ -120,7 +121,6 @@ print(me.goal())
 
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
