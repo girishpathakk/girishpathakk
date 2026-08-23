@@ -62,10 +62,11 @@ print(me.goal())
 
 | # | Project | Domain | Tools | Link |
 |---|---------|--------|-------|------|
-| 01 | **OTT Subscriber Churn Analysis** | Data Analytics | Python · Pandas · SQLite · Matplotlib | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/OTT-Subscriber-Churn-Analysis) |
+| 01 | **Students Subscription & Churn Analysis** | Data Analytics | Python · Pandas · SQL · PowerBI | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/Students-Subscription-and-Churn-Analysis) |
 | 02 | **Customer Shopping Behavior Analysis** | Data Analytics | Python · Pandas · SQL · EDA | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/Customer-Shopping-Behavior-Analysis) |
-| 03 | **E-Commerce Sales Analytics** | Excel Analytics | Advanced Excel · Power Query · Pivot | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/E-Commerce-Sales-Analytics-Excel) |
-| 04 | **Creditwise Loan Approval Prediction** | Machine Learning | Python · Scikit-learn · Classification | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/OTT-Subscriber-Churn-Analysis.git) |
+| 03 | **OTT Subscriber Churn Analysis** | Data Analytics | Python · Pandas · SQLite · Matplotlib | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/OTT-Subscriber-Churn-Analysis) |
+| 43 | **E-Commerce Sales Analytics** | Excel Analytics | Advanced Excel · Power Query · Pivot | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/E-Commerce-Sales-Analytics-Excel) |
+| 05 | **Creditwise Loan Approval Prediction** | Machine Learning | Python · Scikit-learn · Classification | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/OTT-Subscriber-Churn-Analysis.git) |
 
 
 
@@ -82,9 +83,9 @@ print(me.goal())
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- 🤖 End-to-end ML pipelines — Regression, Classification with model evaluation (Confusion Matrix, ROC-AUC)
-- 📊 Data Analytics dashboards with Power BI
 - 📈 End-to-end business insight projects from real-world datasets
+- 📊 Data Analytics dashboards with Power BI
+- 🤖 End-to-end ML pipelines — Regression, Classification with model evaluation (Confusion Matrix, ROC-AUC)
 - 🧠 Deep Learning models using TensorFlow/Keras (ANN, CNN basics)
 
 </td>
@@ -108,7 +109,7 @@ print(me.goal())
 | Category | Tools & Technologies |
 |----------|---------------------|
 | 👨‍💻 **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-663300?style=for-the-badge&logo=dbeaver&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 | 📊 **Data Visualization & BI** | ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white) |
 | 📦 **Data Science Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff) |
 | 📈 **Analytics & Reporting** | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-F1C912?style=for-the-badge&logo=microsoft&logoColor=white) |
