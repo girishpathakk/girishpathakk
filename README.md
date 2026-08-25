@@ -4,7 +4,6 @@
 </p>
 
 
-![logo](https://github.com/girishpathakk/girishpathak/blob/main/IMG_20260531_153849.png)
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi there, I'm Girish Pathak!
 
 <div align="center">
