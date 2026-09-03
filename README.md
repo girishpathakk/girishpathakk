@@ -26,7 +26,7 @@ class GirishPathak:
         self.name = "Girish Pathak"
         self.role = "Data Analyst | Ex-Chegg Inc. |
         self.location = "Delhi, India 🇮🇳"
-        self.experience = "6+ Years | EdTech · Operations · Content Analytics"
+        self.experience = "7+ Years | EdTech · Operations · Content Analytics"
         self.current_goal = "Seeking Remote/Hybrid Data Analyst Role"
 
         self.skills = [
