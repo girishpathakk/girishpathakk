@@ -24,7 +24,7 @@
 class GirishPathak:
     def __init__(self):
         self.name = "Girish Pathak"
-        self.role = "Data Analyst | Ex-Chegg Inc. |
+        self.role = "Data Analyst | Ex-Chegg Inc. |"
         self.location = "Delhi, India 🇮🇳"
         self.experience = "7+ Years | EdTech · Operations · Content Analytics"
         self.current_goal = "Seeking Remote/Hybrid Data Analyst Role"
@@ -38,7 +38,7 @@ class GirishPathak:
             "NumPy",
             "Pandas",
             "Matplotlib",
-            "Seaborn"
+            "Seaborn",
             "Machine Learning",
         ]
 
@@ -112,10 +112,9 @@ print(me.goal())
 | 📊 **Data Visualization & BI** | ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white) |
 | 📦 **Data Science Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff) |
 | 📈 **Analytics & Reporting** | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-F1C912?style=for-the-badge&logo=microsoft&logoColor=white) |
-| 🤖 **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| 🔧 **MLOps & Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white) |
-| ☁️ **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| 🌱 **Currently Learning** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=python&logoColor=white) |
+| 🤖 **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|
+| 🔧 **MLOps & Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+| 🌱 **Currently Learning** | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 
 ---
 
