@@ -65,7 +65,7 @@ print(me.goal())
 | 02 | **Customer Shopping Behavior Analysis** | Data Analytics | Python · Pandas · SQL · EDA · PowerBI | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/Customer-Shopping-Behavior-Analysis) |
 | 03 | **OTT Subscriber Churn Analysis** | Data Analytics | Python · Pandas · SQLite · Matplotlib | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/OTT-Subscriber-Churn-Analysis) |
 | 43 | **E-Commerce Sales Analytics** | Excel Analytics | Advanced Excel · Power Query · Pivot | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/E-Commerce-Sales-Analytics-Excel) |
-| 05 | **Creditwise Loan Approval Prediction** | Machine Learning | Python · Scikit-learn · Classification | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/OTT-Subscriber-Churn-Analysis.git) |
+| 05 | **Creditwise Loan Approval Prediction** | Machine Learning | Python · Scikit-learn · Classification | [![🔗 View](https://img.shields.io/badge/View-blue.svg)](https://github.com/girishpathakk/Creditwise-Loan-Approval-Prediction-System.git) |
 
 
 
